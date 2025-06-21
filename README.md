@@ -126,9 +126,8 @@ Basado en los hallazgos, se propone:
 
 **Yohan Sebastián Ospina González**  
 Estudiante de Análisis y Desarrollo de Software – SENA  
-Contacto: yohanospina64@gmail.com  
-GitHub: [tu_usuario_github]  
-LinkedIn: [tu_perfil_linkedin]
+Contacto: yohanospina64@gmail.com    
+LinkedIn: https://www.linkedin.com/in/yohan-sebastian-ospina-gonz%C3%A1lez-92864729b/
 
 ---
 
