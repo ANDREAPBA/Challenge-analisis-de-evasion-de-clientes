@@ -122,15 +122,6 @@ Basado en los hallazgos, se propone:
 
 ---
 
-## 🧑 Autor
-
-**Yohan Sebastián Ospina González**  
-Estudiante de Análisis y Desarrollo de Software – SENA  
-Contacto: yohanospina64@gmail.com    
-LinkedIn: https://www.linkedin.com/in/yohan-sebastian-ospina-gonz%C3%A1lez-92864729b/
-
----
-
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente con fines educativos o profesionales.
